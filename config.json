@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersrocess",
+        "uuid": 9798516,
+        "checksum": "lzzyvj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
